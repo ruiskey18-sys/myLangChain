@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+sqlalchemy
+python-dotenv
+pydantic
+langchain-ollama
+zhipu
+
+# --- MySQL 驱动 (二选一，推荐第一个) ---
+mysql-connector-python
+# pymysql

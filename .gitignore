@@ -1,0 +1,12 @@
+target/
+*.class
+
+.idea/
+*.iml
+
+logs/
+*.log
+
+.DS_Store
+
+.env
