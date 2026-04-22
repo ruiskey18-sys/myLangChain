@@ -8,6 +8,7 @@ python-dotenv
 pydantic
 langchain-ollama
 zhipu
+agents
 
 # --- MySQL 驱动 (二选一，推荐第一个) ---
 mysql-connector-python
